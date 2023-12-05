@@ -1,2 +1,2 @@
 # AssignmentA
-An assignment
+An assignment for my Hope ACademy class with Mr. Thompson
